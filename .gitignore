@@ -17,3 +17,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Command/__pycache__/
+Command/__pycache__/
+View/__pycache__/
+Database/__pycache__/
