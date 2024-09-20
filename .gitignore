@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc
 *.py[cod]
 *$py.class
 
@@ -17,7 +18,5 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-Command/__pycache__/
-Command/__pycache__/
-View/__pycache__/
-Database/__pycache__/
+
+
