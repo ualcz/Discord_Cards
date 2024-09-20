@@ -1,0 +1,71 @@
+{
+    "collections": [
+        {
+            "id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
+            "name": "pix",
+            "cards": [
+                {
+                    "id": "6755e33c-b5ef-4ce3-9ba1-a30f2e5bc578",
+                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
+                    "name": "Urubu",
+                    "rarity": "legendary",
+                    "image_url": "https://i.pinimg.com/564x/7b/95/3b/7b953b1abfe3bf57f1a90fd3e1dfe824.jpg"
+                },
+                {
+                    "id": "8d06774c-2490-4246-9a58-1b12d559f921",
+                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
+                    "name": "pato",
+                    "rarity": "legendary",
+                    "image_url": "https://i.pinimg.com/736x/97/c2/61/97c2611c08db3173a01c706e53fb4678.jpg"
+                },
+                {
+                    "id": "0101285e-374d-4017-97bd-5c5d5887004a",
+                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
+                    "name": "papagaio",
+                    "rarity": "Uncommon",
+                    "image_url": "https://i.pinimg.com/564x/e9/8b/60/e98b603b51254b4dc4cb26bbc26a04b1.jpg"
+                },
+                {
+                    "id": "34bdd1c8-510e-4f08-ae01-e75bca55085f",
+                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
+                    "name": "deu ruin",
+                    "rarity": "Epic",
+                    "image_url": "https://i.pinimg.com/564x/eb/15/34/eb1534c35c8f9a9e35ffe4d8bbf2fcfa.jpg"
+                },
+                {
+                    "id": "e9a2c432-9eda-4188-9129-7cc6aa815940",
+                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
+                    "name": "urubu",
+                    "rarity": "Common",
+                    "image_url": "https://i.pinimg.com/564x/7f/6e/14/7f6e141f1f7b615337868824fb7e91d3.jpg"
+                },
+                {
+                    "id": "ffabc920-79e7-4282-ad42-b4cff85d1e0b",
+                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
+                    "name": "jacare",
+                    "rarity": "Uncommon",
+                    "image_url": "https://i.pinimg.com/564x/38/6b/4f/386b4f8311d87cf627777af4e945ba46.jpg"
+                },
+                {
+                    "id": "c215f774-98c5-4ea8-9a03-0a3d6583654e",
+                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
+                    "name": "robo",
+                    "rarity": "Common",
+                    "image_url": "https://i.pinimg.com/564x/e2/fe/5f/e2fe5fce4a55fbc0171d95f859562cd2.jpg"
+                }
+            ]
+        },
+        {
+            "id": "5194d2f6-93d0-444e-9982-41d10cd57db8",
+            "name": "Politica",
+            "cards": []
+        },
+        {
+            "id": "6e4c3344-54ba-462f-9db3-8dad49920b1c",
+            "name": "2024",
+            "cards": [
+
+            ]
+        }
+    ]
+}
