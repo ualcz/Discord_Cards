@@ -10,7 +10,7 @@ from Database.data import Base
 
 # Carrega variáveis de ambiente do arquivo .env
 load_dotenv()
-DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
+DISCORD_TOKEN = os.getenv('DISCORD_TOKEN2')
 
 data=Base()
 
