@@ -5,6 +5,7 @@ __pycache__/
 *$py.class
 
 # C extensions
+
 *.so
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
@@ -18,5 +19,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+*.gitignore
 
-
+Command/__pycache__/CommandCard.cpython-312.pyc
+Command/__pycache__/Erro.cpython-312.pyc
+Database/__pycache__/data.cpython-312.pyc
+View/__pycache__/CardView.cpython-312.pyc
