@@ -56,15 +56,57 @@
             ]
         },
         {
-            "id": "5194d2f6-93d0-444e-9982-41d10cd57db8",
-            "name": "Politica",
-            "cards": []
+            "id": "4651edd3-19b3-404b-bd30-61ebce359b00",
+            "name": "Revese",
+            "cards": [
+                {
+                    "id": "4dd387d1-d5de-44d5-9513-0b63e8cc48ca",
+                    "collection_id": "4651edd3-19b3-404b-bd30-61ebce359b00",
+                    "name": "tengo",
+                    "rarity": "Uncommon",
+                    "image_url": null
+                }
+            ]
         },
         {
-            "id": "6e4c3344-54ba-462f-9db3-8dad49920b1c",
-            "name": "2024",
+            "id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
+            "name": "Pode N\u00e3o",
             "cards": [
-
+                {
+                    "id": "0a384cf2-8658-416e-a885-9b672e2fe460",
+                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
+                    "name": "Pode N\u00e3o",
+                    "rarity": "Common",
+                    "image_url": "https://i.pinimg.com/736x/b9/ba/de/b9bade4d794a11471b6369796cb5e419.jpg"
+                },
+                {
+                    "id": "933b222e-62e9-4302-8a1b-60653d5025f6",
+                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
+                    "name": "mizera",
+                    "rarity": "Legendary",
+                    "image_url": "https://i.pinimg.com/originals/9e/44/7e/9e447e67f792c24565c84ca0b945bef5.png"
+                },
+                {
+                    "id": "ed90ae2d-6b01-43e3-9767-5da41ac2acd0",
+                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
+                    "name": "Qual foi",
+                    "rarity": "Uncommon",
+                    "image_url": "https://i.pinimg.com/736x/16/c7/ce/16c7ce14c53037cfa4fb85bb45ac15f7.jpg"
+                },
+                {
+                    "id": "212b817b-9856-42fa-badf-c55afbef31d1",
+                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
+                    "name": "Pode N\u00e3o Senhor",
+                    "rarity": "Rare",
+                    "image_url": "https://i.pinimg.com/564x/56/e2/b7/56e2b79c44756544e76ecfddae8aabaa.jpg"
+                },
+                {
+                    "id": "c09a5272-96c1-4cc1-b918-9e72955f815d",
+                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
+                    "name": "Pode N\u00e3o Amor",
+                    "rarity": "Uncommon",
+                    "image_url": "https://i.pinimg.com/736x/c2/81/16/c2811633abe6ec1e43a0b59248728d40.jpg"
+                }
             ]
         }
     ]
