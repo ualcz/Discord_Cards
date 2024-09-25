@@ -1,13 +1,9 @@
 
 # Bot de Jogo de Cartas do Discord
 
-Bem-vindo ao **Bot de Jogo de Cartas do Discord**! Este bot permite que os usuários joguem um jogo de cartas onde podem adicionar cartas à sua coleção.
+Bem-vindo ao **Bot de Jogo de Cartas do Discord**! Este bot permite que os usuários colecione cartas e receba recompensa para cada card colecionado.
 
-## 📦 Funcionalidades
-
-- **Adicionar Cartas**: Os usuários podem adicionar novas cartas à sua coleção.
-- **Coletar Cartas**: Os usuários podem coletar cartas e construir seu próprio deck único.
-
+---
 ## 🛠️ Requisitos
 
 Antes de começar, certifique-se de ter o seguinte:
@@ -57,7 +53,12 @@ Certifique-se de que seu arquivo `.env` esteja configurado com o token do seu bo
 
 - `/add_collection`: Adiciona uma nova coleção.
 - `/add_card`: Adiciona uma nova carta à sua coleção.
+
 - `/collect `: Coleta uma carta aleatoria.
+[Descrição da Imagem](./Img/IMG1.png)
+- `/user_info`:Lista os cards de um usuário.
+[Descrição da Imagem](./Img/IMG4.png)
+[Descrição da Imagem](./Img/IMG3.png)
 
 ## 🤝 Contribuições
 
