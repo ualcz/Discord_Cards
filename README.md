@@ -18,7 +18,7 @@ Antes de começar, certifique-se de ter o seguinte:
 1. **Clone o Repositório**:
 
    ```bash
-   git clone 
+   git clone https://github.com/ualcz/Discord_Cards.git
    cd discord-card-game-bot
    ```
 
@@ -60,72 +60,6 @@ Certifique-se de que seu arquivo `.env` esteja configurado com o token do seu bo
 - `/user_info`:Lista os cards de um usuário.
 ![Descrição da Imagem](./Img/IMG4.png)
 
----
-Aqui está um exemplo de como você pode estruturar o `README.md` do seu bot com a adição da estrutura do banco de dados:
-
----
-
-# Bot de Jogo de Cartas do Discord
-
-Bem-vindo ao **Bot de Jogo de Cartas do Discord**! Este bot permite que os usuários colecionem cartas e recebam recompensas para cada carta colecionada.
-
----
-
-## 🛠️ Requisitos
-
-Antes de começar, certifique-se de ter o seguinte:
-
-- Python 3.8 ou superior
-- Biblioteca Discord.py (Instale usando `pip install discord.py`)
-- Um Token de Bot do Discord
-- Banco de dados PostgreSQL ou outro SGBD compatível
-
-## 🔧 Configuração
-
-1. **Clone o Repositório**:
-
-   ```bash
-   git clone https://github.com/seu-repositorio/discord-card-game-bot.git
-   cd discord-card-game-bot
-   ```
-
-2. **Instale as Dependências**:
-
-   Certifique-se de ter os pacotes necessários instalados:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Crie um Arquivo `.env`**:
-
-   No diretório raiz do seu projeto, crie um arquivo chamado `.env` e adicione seu token de bot do Discord e a URL de conexão do banco de dados:
-
-   ```plaintext
-   TOKEN=seu_token_do_bot_discord
-   DATABASE_URL=seu_banco_de_dados_url
-   ```
-
-   Substitua `seu_token_do_bot_discord` pelo seu token real do bot do Discord e `seu_banco_de_dados_url` pela string de conexão ao seu banco de dados PostgreSQL.
-
-## 🕹️ Como Executar o Bot
-
-Para iniciar o bot, execute o seguinte comando:
-
-```bash
-python Main.py
-```
-
-Certifique-se de que seu arquivo `.env` esteja configurado corretamente.
-
----
-
-## 📜 Comandos
-
-- `/add_collection`: Adiciona uma nova coleção.
-- `/add_card`: Adiciona uma nova carta à sua coleção.
-- `/collect`: Coleta uma carta aleatória.
-- `/user_info`: Lista os cards de um usuário.
 
 ---
 
