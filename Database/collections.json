@@ -1,111 +1,25 @@
 {
     "collections": [
         {
-            "id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
-            "name": "pix",
+            "id": "fea4bfd5-9fba-43da-8292-65ddbb4389ee",
+            "name": "8",
             "cards": [
                 {
-                    "id": "6755e33c-b5ef-4ce3-9ba1-a30f2e5bc578",
-                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
-                    "name": "Urubu",
-                    "rarity": "legendary",
-                    "image_url": "https://i.pinimg.com/564x/7b/95/3b/7b953b1abfe3bf57f1a90fd3e1dfe824.jpg"
-                },
-                {
-                    "id": "8d06774c-2490-4246-9a58-1b12d559f921",
-                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
-                    "name": "pato",
-                    "rarity": "legendary",
-                    "image_url": "https://i.pinimg.com/736x/97/c2/61/97c2611c08db3173a01c706e53fb4678.jpg"
-                },
-                {
-                    "id": "0101285e-374d-4017-97bd-5c5d5887004a",
-                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
-                    "name": "papagaio",
-                    "rarity": "Uncommon",
-                    "image_url": "https://i.pinimg.com/564x/e9/8b/60/e98b603b51254b4dc4cb26bbc26a04b1.jpg"
-                },
-                {
-                    "id": "34bdd1c8-510e-4f08-ae01-e75bca55085f",
-                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
-                    "name": "deu ruin",
-                    "rarity": "Epic",
-                    "image_url": "https://i.pinimg.com/564x/eb/15/34/eb1534c35c8f9a9e35ffe4d8bbf2fcfa.jpg"
-                },
-                {
-                    "id": "e9a2c432-9eda-4188-9129-7cc6aa815940",
-                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
-                    "name": "urubu",
-                    "rarity": "Common",
-                    "image_url": "https://i.pinimg.com/564x/7f/6e/14/7f6e141f1f7b615337868824fb7e91d3.jpg"
-                },
-                {
-                    "id": "ffabc920-79e7-4282-ad42-b4cff85d1e0b",
-                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
-                    "name": "jacare",
-                    "rarity": "Uncommon",
-                    "image_url": "https://i.pinimg.com/564x/38/6b/4f/386b4f8311d87cf627777af4e945ba46.jpg"
-                },
-                {
-                    "id": "c215f774-98c5-4ea8-9a03-0a3d6583654e",
-                    "collection_id": "e3ce6466-195d-4c9d-94a8-5a26c2dafe29",
-                    "name": "robo",
-                    "rarity": "Common",
-                    "image_url": "https://i.pinimg.com/564x/e2/fe/5f/e2fe5fce4a55fbc0171d95f859562cd2.jpg"
-                }
-            ]
-        },
-        {
-            "id": "4651edd3-19b3-404b-bd30-61ebce359b00",
-            "name": "Revese",
-            "cards": [
-                {
-                    "id": "4dd387d1-d5de-44d5-9513-0b63e8cc48ca",
-                    "collection_id": "4651edd3-19b3-404b-bd30-61ebce359b00",
-                    "name": "tengo",
-                    "rarity": "Uncommon",
-                    "image_url": null
-                }
-            ]
-        },
-        {
-            "id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
-            "name": "Pode N\u00e3o",
-            "cards": [
-                {
-                    "id": "0a384cf2-8658-416e-a885-9b672e2fe460",
-                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
-                    "name": "Pode N\u00e3o",
-                    "rarity": "Common",
-                    "image_url": "https://i.pinimg.com/736x/b9/ba/de/b9bade4d794a11471b6369796cb5e419.jpg"
-                },
-                {
-                    "id": "933b222e-62e9-4302-8a1b-60653d5025f6",
-                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
-                    "name": "mizera",
+                    "id": "54943599-c174-4e04-87ff-07cbed2465e8",
+                    "collection_id": "fea4bfd5-9fba-43da-8292-65ddbb4389ee",
+                    "name": "8",
                     "rarity": "Legendary",
-                    "image_url": "https://i.pinimg.com/originals/9e/44/7e/9e447e67f792c24565c84ca0b945bef5.png"
+                    "image_url": null,
+                    "attack": 859,
+                    "defense": 857,
+                    "hp": 98
                 },
                 {
-                    "id": "ed90ae2d-6b01-43e3-9767-5da41ac2acd0",
-                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
-                    "name": "Qual foi",
-                    "rarity": "Uncommon",
-                    "image_url": "https://i.pinimg.com/736x/16/c7/ce/16c7ce14c53037cfa4fb85bb45ac15f7.jpg"
-                },
-                {
-                    "id": "212b817b-9856-42fa-badf-c55afbef31d1",
-                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
-                    "name": "Pode N\u00e3o Senhor",
-                    "rarity": "Rare",
-                    "image_url": "https://i.pinimg.com/564x/56/e2/b7/56e2b79c44756544e76ecfddae8aabaa.jpg"
-                },
-                {
-                    "id": "c09a5272-96c1-4cc1-b918-9e72955f815d",
-                    "collection_id": "053c2ab1-68e5-4c2e-a4c9-649841bb4b52",
-                    "name": "Pode N\u00e3o Amor",
-                    "rarity": "Uncommon",
-                    "image_url": "https://i.pinimg.com/736x/c2/81/16/c2811633abe6ec1e43a0b59248728d40.jpg"
+                    "id": "e67ba489-525b-47d3-9396-4dd3fa72c4ae",
+                    "collection_id": "fea4bfd5-9fba-43da-8292-65ddbb4389ee",
+                    "name": "9",
+                    "rarity": "Epic",
+                    "image_url": null
                 }
             ]
         }

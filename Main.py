@@ -7,12 +7,18 @@ from Command.CommandCard import CommandCard
 from Command.Erro import Erro
 from Database.data import Base
 
+db_config = {
+    'user': 'root',
+    'password': '',
+    'host': 'localhost',  # ou o endereço do seu servidor de banco de dados
+    'database': 'VDR'
+}
 
 # Carrega variáveis de ambiente do arquivo .env
 load_dotenv()
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
 
-data=Base()
+data=Base(db_config)
 
 class MyClient(discord.Client):
     def __init__(self, *,db, intents: discord.Intents):
