@@ -55,10 +55,10 @@ Certifique-se de que seu arquivo `.env` esteja configurado com o token do seu bo
 - `/add_card`: Adiciona uma nova carta à sua coleção.
 
 - `/collect `: Coleta uma carta aleatoria.
-[Descrição da Imagem](./Img/IMG1.png)
+![Descrição da Imagem](./Img/IMG1.png)
 - `/user_info`:Lista os cards de um usuário.
-[Descrição da Imagem](./Img/IMG4.png)
-[Descrição da Imagem](./Img/IMG3.png)
+![Descrição da Imagem](./Img/IMG4.png)
+![Descrição da Imagem](./Img/IMG3.png)
 
 ## 🤝 Contribuições
 
